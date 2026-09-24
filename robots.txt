@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://familygallerytv.com/sitemap.xml
